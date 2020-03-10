@@ -1,0 +1,26 @@
+{
+  "name": "3-asynchronous-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henkhodryza/asynchronous-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henkhodryza/asynchronous-JS/issues"
+  },
+  "homepage": "https://github.com/henkhodryza/asynchronous-JS#readme"
+}
